@@ -65,7 +65,7 @@ To build a predictive system that:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/air-pollution-disease-predictor.git
+   git clone https://github.com/vi1ka2/air-pollution-disease-predictor.git
    cd air-pollution-disease-predictor
 2.**Install Required Libraries**
    pip install pandas scikit-learn
